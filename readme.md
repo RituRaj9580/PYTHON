@@ -4,15 +4,18 @@
 
 This repository contains basic Python scripts that perform simple operations using loops and variables.
 
-### Task 1: [Provide a short summary of what Task 1 does]
-
-### Task 2: Sum of Integers from 1 to 50
-- Uses a `for` loop to iterate from 1 to 50.
-- Calculates and displays the sum of all integers in this range.
+### Task 1:  this give you total sum between two integers.
+     # example:-
+     1-10 = 55
+### Task 2: when you enter your number  it show you your number is odd or even.
 
 ## How to Run
 
-Make sure you have Python installed. Then run the scripts using:
+Make sure you have Python installed on your windows/mac . Then run the scripts using:
 
 ```bash
-python task2.py
+### follow given step :-
+
+1st :- Open terminal/smd
+2nd :- python Total_sum.py       ### this is Task 1
+3rd :- python even_odd.py        ### this is task 2
